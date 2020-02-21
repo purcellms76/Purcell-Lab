@@ -1,1 +1,1 @@
-This is the "read-me" text for the RWADEME file.
+This is the "read-me" text for the README file.
